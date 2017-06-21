@@ -1,0 +1,10 @@
+omsu\imit\function\FunctionDiv.class
+omsu\imit\functional\Functional.class
+omsu\imit\exceptions\OverstepException.class
+omsu\imit\exceptions\ZeroException.class
+omsu\imit\function\Function.class
+omsu\imit\function\FunctionExp.class
+omsu\imit\functional\FunctionalSum.class
+omsu\imit\functional\Integral.class
+omsu\imit\function\FunctionSum.class
+omsu\imit\function\FunctionSin.class
