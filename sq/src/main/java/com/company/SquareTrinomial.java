@@ -3,7 +3,7 @@ package com.company;
 import java.util.ArrayList;
 
 public class SquareTrinomial {
-
+//ура!
     private double a;
     private double b;
     private double c;
