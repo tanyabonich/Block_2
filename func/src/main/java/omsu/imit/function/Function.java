@@ -6,5 +6,5 @@ import omsu.imit.exceptions.ZeroException;
 public interface Function {
     double getA();
     double getB();
-    double f(double x) throws OverstepException, ZeroException, OverstepException;
+    double f(double x) throws  ZeroException, OverstepException;
 }

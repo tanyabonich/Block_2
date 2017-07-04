@@ -31,5 +31,12 @@ public class IntegralTest {
         Assert.assertEquals(solution, expected,1e-10);
     }
 
-
+    @Test
+    public void testIntegralSin2() throws OverstepException, ZeroException {
+        Integral integ = new Integral();
+        FunctionSin sin = new FunctionSin(0,2*Math.PI,1,1);
+        double solution = integ.f(sin,1000);
+        double expected = 0;
+        Assert.assertEquals(solution, expected,1e-10);
+    }
 }

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.company:sq:2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/company/sq/2.0-SNAPSHOT/sq-2.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/company/sq/2.0-SNAPSHOT/sq-2.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/company/sq/2.0-SNAPSHOT/sq-2.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -6,7 +6,7 @@
 
     <groupId>com.company</groupId>
     <artifactId>bigroot</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>2.0-SNAPSHOT</version>
     <dependencies>
 
         <dependency>
@@ -19,7 +19,7 @@
         <dependency>
             <groupId>com.company</groupId>
             <artifactId>sq</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0-SNAPSHOT</version>
 
         </dependency>
 
